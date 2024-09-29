@@ -1,7 +1,7 @@
 
-# Machine Learning Classification Analysis
+# Predictive modelling for Sydney restaurant
 
-This repository contains a classification analysis using three machine learning models:
+This repository contains a classification analysis, a linear regression model, a SGD regression model and using three machine learning models:
 - Random Forest
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
